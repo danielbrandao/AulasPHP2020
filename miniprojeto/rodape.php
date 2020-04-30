@@ -1,5 +1,4 @@
-<?php
-
-echo "<h3>Rodapé do site &copy;</h3><br>";
-
-?>
+<footer>
+    <hr>
+    <center>2020 &copy; MeuSite.com - Direitos Reservados </center>
+</footer>
